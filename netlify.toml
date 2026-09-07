@@ -1,0 +1,10 @@
+[build]
+  publish = "."
+  command = ""
+
+[context.production.environment]
+  # Add environment variables here if needed
+
+[dev]
+  command = ""
+  publish = "."
