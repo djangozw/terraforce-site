@@ -1,0 +1,12 @@
+# Ignore common files
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+/dist/
+/build/
+.cache/
+*.log
+# Images/source not required in repo
+# assets/
